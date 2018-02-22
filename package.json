@@ -1,0 +1,18 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angularjs": "^0.0.1",
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server",
+    "start": "node node_modules/lite-server/bin/lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
